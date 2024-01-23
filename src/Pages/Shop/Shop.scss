@@ -1,0 +1,9 @@
+.Shop{
+    background: black;
+    text-align: center;
+    .container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+}

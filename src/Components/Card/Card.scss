@@ -1,7 +1,11 @@
 .Card{
     padding: 1em;
-    width: 300px;
+    width: 15em;
     img{
         width: 100%;
+        padding: 1em;
+    }
+    .container{
+        text-align: center;
     }
 }

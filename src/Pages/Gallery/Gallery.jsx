@@ -10,17 +10,17 @@ const Gallery = () => {
       price: "1300"
     },
     {
-      image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue_FMT_WHH?wid=1280&hei=492&fmt=p-jpg&qlt=80&.v=1692923776464", // Add the correct image URL here
+      image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846363993", // Add the correct image URL here
       name: "iPhone 15",
       price: "900"
     },
     {
-      image: "https://think-ecuador.com/wp-content/uploads/2021/12/MacBook_Pro_16-in_Space_Gray_PDP_Image_Position-1__MXLA.jpeg", // Add the correct image URL here
+      image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846363993", // Add the correct image URL here
       name: "MacBook Pro",
       price: "1500"
     },
     {
-      image: "https://think-ecuador.com/wp-content/uploads/2021/12/MacBook_Pro_16-in_Space_Gray_PDP_Image_Position-1__MXLA.jpeg", // Add the correct image URL here
+      image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1692846363993", // Add the correct image URL here
       name: "MacBook Air",
       price: "1300"
     }

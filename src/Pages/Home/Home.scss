@@ -10,6 +10,14 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
+        .text{
+            h1{
+                font-size: 120px;
+            }
+            p{
+                font-size: 40px;
+            }
+        }
     }
     .right{
         width: 100%;
